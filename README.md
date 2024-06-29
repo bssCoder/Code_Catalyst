@@ -10,4 +10,4 @@ At Code Catalyst, you’ll find:
 
 Join Code Catalyst and be part of a community that’s shaping the future of technology. Spark your interest, learn more, and help drive innovation.
 
-Explore a world of tech insights and opportunities at Code Catalyst[https://code-catalyst.vercel.app/] . Dive in today and start your journey with us!
+Explore a world of tech insights and opportunities at [ Code Catalyst](https://code-catalyst.vercel.app/) . Dive in today and start your journey with us!
